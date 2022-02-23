@@ -1,3 +1,5 @@
+# image-zookeeper is no longer actively maintained by VMware, Inc.
+
 # Spring XD ZooKeeper
 This Docker image contains a [ZooKeeper](http://zookeeper.apache.org/) installation, as found in the canonical Spring XD distribution.
 
